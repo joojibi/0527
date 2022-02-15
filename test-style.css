@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  text-align: center;
+}
+
+
+.bg{
+  font-size: 2rem;
+  color: white;
+  background-color: #0d889c;
+  width: 420px;
+  font-weight: bold;
+  line-height: 2.5rem;
+  text-align: center;
+}
